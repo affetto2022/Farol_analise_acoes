@@ -1,0 +1,6 @@
+{
+  "name": "Farol Traders — Analisador Gráfico Inteligente",
+  "description": "Plataforma profissional de análise técnica OHLC com Ciclo Oliver Kell, Volume Financeiro, Agente de IA Gemini e Estúdio Multimídia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
